@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "The Avengers",
+    "year": 2012,
+    "rating": 8.3,
+    "revenue": "$670M"
+  },
+  {
+    "id": 2,
+    "name": "Man of Steel",
+    "year": 2013,
+    "rating": 7.8,
+    "revenue": "$320M"
+  },
+  {
+    "id": 3,
+    "name": "Thor Ragnarok",
+    "year": 2017,
+    "rating": 9.1,
+    "revenue": "$700M"
+  },
+  {
+    "id": 4,
+    "name": "Avengers Age of Ultron",
+    "year": 2014,
+    "rating": 7,
+    "revenue": "$560M"
+  },
+  {
+    "id": 5,
+    "name": "Captain America - The First Avenger",
+    "year": 2013,
+    "rating": 8,
+    "revenue": "$450M"
+  },
+  {
+    "id": 6,
+    "name": "Justice league",
+    "year": 2015,
+    "rating": 7.1,
+    "revenue": "$580M"
+  },
+  {
+    "id": 7,
+    "name": "Avengers Infinity War",
+    "year": 2018,
+    "rating": 8.9,
+    "revenue": "$1.2B"
+  },
+  {
+    "id": 8,
+    "name": "Avengers Endgame",
+    "year": 2019,
+    "rating": 8.7,
+    "revenue": "$3.5B"
+  },
+  {
+    "id": 9,
+    "name": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": 9.5,
+    "revenue": "$700M"
+  },
+  {
+    "id": 10,
+    "name": "Indecent Proposal",
+    "year": 2001,
+    "rating": 7.2,
+    "revenue": "$200M"
+  },
+  {
+    "id": 11,
+    "name": "Pretty Woman",
+    "year": 2006,
+    "rating": 5.8,
+    "revenue": "$120M"
+  },
+  {
+    "id": 12,
+    "name": "Jumanji",
+    "year": 2010,
+    "rating": 7.2,
+    "revenue": "$430M"
+  },
+  {
+    "id": 13,
+    "name": "Joker",
+    "year": 2019,
+    "rating": 9.1,
+    "revenue": "$1.4B"
+  },
+  {
+    "id": 14,
+    "name": "Anabelle",
+    "year": 20,
+    "rating": 6.3,
+    "revenue": "$130M"
+  }
+]
